@@ -24,15 +24,33 @@ impl Hero {
             Material::Platinum => self.HP * 3.5,
         }
     }
+
+    fn display(&self) {
+        println!("Hello, {}!\nYour stats are-", self.Class);
+        println!("\tHP: {}\n\tEffective HP: {}\n", self.HP, self.effective_health());
+    }
 }
 
 fn main() {
-    let character = Hero {
+    let ninja = Hero {
         Class: "Ninja".to_string(),
         HP: 20.0,
         Armor: Material::Leather,
     };
 
-    println!("Hello, {}!\nYour stats are-", character.Class);
-    println!("\tHP: {}\n\tEffective HP: {}\n", character.HP, character.effective_health());
+    let warrior = Hero {
+        Class: "Warrior".to_string(),
+        HP: 25.0,
+        Armor: Material::Iron,
+    };
+
+    let cleric = Hero {
+        Class: "Cleric".to_string(),
+        HP: 15.0,
+        Armor: Material::Gold,
+    };
+
+    ninja.display();
+    warrior.display();
+    cleric.display();
 }
