@@ -4,6 +4,14 @@ fn printhash(book: &HashMap<String, u32>){
     for (key, value) in book {
         println!("{}: {}", key.to_string(), value);
     }
+    println!();
+}
+
+fn printvec(book: Vec<(String, u32)>){
+    for (key, value) in book {
+        println!("{}: {}", key.to_string(), value);
+    }
+    println!();
 }
 
 fn main() {
@@ -17,4 +25,12 @@ fn main() {
 
     printhash(&phonebook);
 
+    // push phonebook content to vector of tuples
+    let mut contents = Vec::new();
+
+    for (name, number) in phonebook {
+        contents.push((name, number));
+    }
+
+    printvec(contents);
 }
