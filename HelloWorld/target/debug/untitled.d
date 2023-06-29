@@ -1,1 +1,1 @@
-C:\Users\Wage\ Me\Desktop\rust\GitRust\untitled\target\debug\untitled.exe: C:\Users\Wage\ Me\Desktop\rust\GitRust\untitled\src\main.rs
+C:\Users\Wage\ Me\Desktop\rust\GitRust\HelloWorld\target\debug\untitled.exe: C:\Users\Wage\ Me\Desktop\rust\GitRust\HelloWorld\src\main.rs
