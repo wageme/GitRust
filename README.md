@@ -1,6 +1,6 @@
 # GitRust Projects
 
-### Hello World
+### HelloWorld
 - Hello world but it randomizes the greeting (ex: Hello) and the subject (ex: World).
 
 ### EnumStruct
