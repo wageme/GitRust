@@ -6,3 +6,6 @@
 ### EnumStruct
 - Uses an enum that determines armor material
 - Uses a struct that gives the stats for a character (Class, HP, Armor). Which also implements functions to calculate effective health and display stats.
+
+### VectorHash
+- Really mostly an example of using a hashmap, but the vector's there too ya know?
