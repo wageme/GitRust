@@ -9,3 +9,8 @@
 
 ### VectorHash
 - Really mostly an example of using a hashmap, but the vector's there too ya know?
+
+### doubler
+- You have a 100$ to gamble. You bid 50% of your total cash
+- You have a 60% chance to double the money you've bid & a 40% chance to lose all the money you've bid
+- You lose if you keep playing :)
