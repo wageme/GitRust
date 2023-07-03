@@ -2,6 +2,10 @@
 Type in "cargo run [args]" in the terminal
 cargo run the "C:\Users\Wage Me\Desktop\rust\GitRust\minigrep\src\poem.txt"
 C:\Users\Wage Me\Desktop\rust\GitRust\minigrep
+
+
+RESUME HERE
+https://doc.rust-lang.org/book/ch12-04-testing-the-librarys-functionality.html
 */
 
 use std::env; // environment variables
@@ -28,13 +32,3 @@ fn main() {
     }
 
 }
-
-
-
-
-/*fn parse_config(args: &[String]) -> Config {
-    let query = args[1].clone();
-    let file_path = args[2].clone();
-
-    Config { query, file_path }
-}*/
