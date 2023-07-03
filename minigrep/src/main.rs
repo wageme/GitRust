@@ -1,11 +1,15 @@
 /*
 Type in "cargo run [args]" in the terminal
+
+To search as normal, write:
 cargo run the "C:\Users\Wage Me\Desktop\rust\GitRust\minigrep\src\poem.txt"
+
+To search while ignoring case, write:
+$Env:IGNORE_CASE=1; cargo run a "C:\Users\Wage Me\Desktop\rust\GitRust\minigrep\src\poem.txt"
 C:\Users\Wage Me\Desktop\rust\GitRust\minigrep
 
-
-RESUME HERE
-https://doc.rust-lang.org/book/ch12-04-testing-the-librarys-functionality.html
+To make ignore case persist in powershell, write:
+Remove-Item Env:IGNORE_CASE
 */
 
 use std::env; // environment variables
