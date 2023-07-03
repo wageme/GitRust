@@ -14,3 +14,12 @@
 - You have a 100$ to gamble. You bid 50% of your total cash
 - You have a 60% chance to double the money you've bid & a 40% chance to lose all the money you've bid
 - You lose if you keep playing :)
+
+### testing_test
+- A couple examples of tests
+
+### io_test
+- Precursor to minigrep. Can read contents of a file given the path
+
+### minigrep
+- A smaller example of linux's grep command.
