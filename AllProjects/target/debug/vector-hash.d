@@ -1,0 +1,1 @@
+C:\Users\Wage\ Me\Desktop\rust\GitRust\AllProjects\target\debug\vector-hash.exe: C:\Users\Wage\ Me\Desktop\rust\GitRust\AllProjects\src\bin\vector-hash.rs C:\Users\Wage\ Me\Desktop\rust\GitRust\AllProjects\src\lib.rs
