@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("\nMake sure to \'Run this file\'");
 }
