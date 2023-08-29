@@ -26,3 +26,9 @@
 
 ### generic-fun
 - Function working with tuples
+
+### shirts
+- Working with the Option<T> enum
+
+### iterators
+- Working with iterators

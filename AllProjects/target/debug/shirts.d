@@ -1,0 +1,1 @@
+C:\Users\Wage\ Me\Desktop\rust\GitRust\AllProjects\target\debug\shirts.exe: C:\Users\Wage\ Me\Desktop\rust\GitRust\AllProjects\src\bin\shirts.rs C:\Users\Wage\ Me\Desktop\rust\GitRust\AllProjects\src\lib.rs
