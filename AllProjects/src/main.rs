@@ -1,3 +1,3 @@
 fn main() {
-    println!("\nMake sure to \'Run this file\'");
+    println!("\nMake sure to use \'Run this file\'");
 }

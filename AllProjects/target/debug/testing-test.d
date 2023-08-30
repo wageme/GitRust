@@ -1,0 +1,1 @@
+C:\Users\Wage\ Me\Desktop\rust\GitRust\AllProjects\target\debug\testing-test.exe: C:\Users\Wage\ Me\Desktop\rust\GitRust\AllProjects\src\bin\testing-test.rs C:\Users\Wage\ Me\Desktop\rust\GitRust\AllProjects\src\lib.rs
