@@ -1,0 +1,22 @@
+
+### How to change the compilation of code
+Release: Slow compile, fast program
+Dev: Fast compile, slow program
+
+cargo build --release
+cargo build --dev
+
+
+opt-level can be from 0-3
+Can be overwritten for the default profiles (release & dev)
+
+// Cargo.toml
+
+[profile.dev]
+opt-level = 0
+
+[profile.release]
+opt-level = 3
+
+[profile.custom]
+opt-level = 2
