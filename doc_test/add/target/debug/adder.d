@@ -1,0 +1,1 @@
+C:\Users\Wage\ Me\Desktop\rust\GitRust\doc_test\add\target\debug\adder.exe: C:\Users\Wage\ Me\Desktop\rust\GitRust\doc_test\add\add_one\src\lib.rs C:\Users\Wage\ Me\Desktop\rust\GitRust\doc_test\add\adder\src\main.rs
