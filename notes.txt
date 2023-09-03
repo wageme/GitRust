@@ -20,3 +20,8 @@ opt-level = 3
 
 [profile.custom]
 opt-level = 2
+
+
+-------------------------------------------------------------
+
+* Dereference operator
