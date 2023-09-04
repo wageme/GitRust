@@ -32,3 +32,12 @@
 
 ### iterators
 - Working with iterators
+
+### better_grep
+- An improved version of minigrep that uses iterators
+
+### doc_test
+- Project that makes use of comments for Documents
+
+### smart_pointers
+- Makes use of smart_pointers (Box<T>, Rc<T>, RefCell<T>)
