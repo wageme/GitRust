@@ -1,0 +1,1 @@
+C:\Users\Wage\ Me\Desktop\rust\GitRust\oop_features\target\debug\state.exe: C:\Users\Wage\ Me\Desktop\rust\GitRust\oop_features\src\bin\state.rs C:\Users\Wage\ Me\Desktop\rust\GitRust\oop_features\src\lib.rs
