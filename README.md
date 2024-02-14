@@ -42,3 +42,14 @@
 ### smart_pointers
 - Makes use of smart_pointers (Box<T>, Rc<T>, RefCell<T>)
  
+### threads
+- Self explanatory. Working with threads
+
+### oop_features
+- Working with object oriented features like traits and state modifying structs.
+
+### pattern_match
+- Working with all sorts of pattern matching methods
+
+### advanced
+- Working with advanced features of rust
