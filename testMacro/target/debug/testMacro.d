@@ -1,0 +1,1 @@
+C:\Users\Wage\ Me\Desktop\rust\GitRust\testMacro\target\debug\testMacro.exe: C:\Users\Wage\ Me\Desktop\rust\GitRust\hello_macro\hello_macro_derive\src\lib.rs C:\Users\Wage\ Me\Desktop\rust\GitRust\hello_macro\src\lib.rs C:\Users\Wage\ Me\Desktop\rust\GitRust\testMacro\src\main.rs

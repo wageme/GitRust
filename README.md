@@ -53,3 +53,6 @@
 
 ### advanced
 - Working with advanced features of rust
+
+### testMacro
+- Runs a program making use of macros in hello_macro
